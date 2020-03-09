@@ -17,7 +17,7 @@ end
 p bubble_sort([4, 3, 78, 2, 0, 2])
 
 def bubble_sort_by(arr)
-  raise "This is an exception" unless block_given?
+  raise 'This is an exception' unless block_given?
 
   i = 0
   arr.length.times do
