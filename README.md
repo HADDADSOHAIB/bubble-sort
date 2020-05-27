@@ -1,6 +1,6 @@
 # bubble-sort
 
-This project is an implementation of bubble sort algorithem in Ruby.
+This project is an implementation of bubble sort algorithm in Ruby.
 
 ## Built With
 
